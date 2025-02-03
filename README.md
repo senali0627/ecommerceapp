@@ -119,12 +119,12 @@ npm run dev
 
 - **User Authentication**: Laravel Jetstream for user login and registration.
 - **Gift Management**: Admins can add, update, and manage gift categories, descriptions, and prices.
-- **Search and Filters**: Users can search and filter gifts based on categories, price range, and occasion.
+- **Search and Filters**: Users can search and filter gifts based on categories.
 - **Cart Functionality**: Users can add gifts to their cart and proceed to checkout.
-- **Order Tracking**: Users can view the status of their orders.
+- **Order Tracking**: Admins can view the status of the orders.
 - **Admin Dashboard**: A dashboard to manage products, users, and orders.
 - **Ratings and Reviews**: Users can rate and review gifts.
-- **Discounts and Coupons**: Implement discounts and promotional codes for users.
+
 
 ---
 
